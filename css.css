@@ -1,0 +1,58 @@
+
+a {
+    display: block;
+    width: 215px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover
+{
+    display: block;
+    width: 215px;
+    height: 25px;
+    background: red;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    font-size: 20px;
+}
+fieldset
+{
+    width: 200px;
+}
+#adjouter
+{
+    margin-left: 330px;
+    margin-top: -295px;
+
+}
+#modifier
+{
+    margin-left: 630px;
+    margin-top: -285px;
+}
+#Suppression
+{
+    margin-left: 330px;
+}
+#Affichage
+{
+    margin-left: 630px;
+    margin-top: -285px;
+}
+img
+{
+    margin-left: 12px;
+    margin-top: 50px;
+}
